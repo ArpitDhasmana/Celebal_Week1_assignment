@@ -1,6 +1,6 @@
 # Celebal_Week1_assignment
 
-# Triangle Pattern Printer in Python
+# Triangle Patterns in Python
 
 This is a simple Python program that prints three types of triangle patterns using the `*` character:
 
