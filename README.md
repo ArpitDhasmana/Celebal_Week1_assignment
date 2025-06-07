@@ -29,12 +29,18 @@ The user is asked to enter the number of rows, and the patterns are printed base
 ## Sample Output
 
 - Case handling when a invalid input(non-integer) is entered.
+
+
 ![Screenshot 2025-06-07 072139](https://github.com/user-attachments/assets/8ecd382c-329a-4b60-9a30-4755ce86f54d)
 
 - Case handling when a negative integer is entered.
+
+
 ![Screenshot 2025-06-07 072123](https://github.com/user-attachments/assets/e9d4fb0e-6a29-4351-aea7-cb32473931cd)
 
 - Final output on providing a valid postive integer as the input.
+
+
 ![Screenshot 2025-06-07 072150](https://github.com/user-attachments/assets/8a8a92cd-1a39-4a32-b7ca-bf474334080c)
 
 
