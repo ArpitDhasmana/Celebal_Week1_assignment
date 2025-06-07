@@ -14,16 +14,12 @@ The user is asked to enter the number of rows, and the patterns are printed base
 
 - The program takes input from the user for the number of rows.
 - If the user enters anything invalid or a negative number, it will show an error message and ask again.
-- After a valid number is entered, it prints:
-  - Lower triangle using a nested loop
-  - Upper triangle by adding spaces before stars
-  - Pyramid by centering the stars in each row
 
 ## Functions Used
 
-- `lower_triangle(n)` – prints a lower triangular pattern.
-- `upper_triangle(n)` – prints an upper triangular pattern.
-- `pyramid(n)` – prints a pyramid shape.
+- lower_triangle(n) – prints a lower triangular pattern.
+- upper_triangle(n) – prints an upper triangular pattern.
+- pyramid(n) – prints a pyramid shape.
 
 ## Input Handling
 
@@ -32,4 +28,6 @@ The user is asked to enter the number of rows, and the patterns are printed base
 
 ## Sample Output
 
+![Uploading Screenshot 2025-06-05 232608.png…]()
+![Screenshot 2025-06-07 072139](https://github.com/user-attachments/assets/8ecd382c-329a-4b60-9a30-4755ce86f54d)
 
