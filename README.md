@@ -36,7 +36,8 @@ The user is asked to enter the number of rows, and the patterns are printed base
 ![Screenshot 2025-06-07 072123](https://github.com/user-attachments/assets/e9d4fb0e-6a29-4351-aea7-cb32473931cd)
 
 - Final output on providing a valid postive integer as the input.
-![Screenshot 2025-06-07 072109](https://github.com/user-attachments/assets/4c18b768-a862-4447-8140-76a0a81b9825)
+![Screenshot 2025-06-07 072150](https://github.com/user-attachments/assets/8a8a92cd-1a39-4a32-b7ca-bf474334080c)
+
 
 
 
